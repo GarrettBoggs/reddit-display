@@ -1,0 +1,51 @@
+npm init
+
+bower init
+
+UPDATE PACKAGE.json & BOWER.json
+
+
+
+
+/////// WITH TEMPATE : ////
+npm install
+
+bower install
+
+<link rel="stylesheet" href="build/css/vendor.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="build/js/vendor.min.js"></script>
+    <script type="text/javascript" src="build/js/app.js"></script>
+
+copy an old gulp file
+
+gulp serve
+//////////////////
+
+
+
+
+
+//// OLD ///
+
+npm install gulp --save-dev
+
+npm install browserify --save-dev
+
+npm install vinyl-source-stream --save-dev
+
+npm install gulp-concat --save-dev
+
+npm install gulp-uglify --save-dev
+
+npm install gulp-util --save-dev
+
+npm install jshint --save-dev
+
+npm install gulp-jshint --save-dev
+
+npm install del --save-dev
+
+gulp minifyScripts
+
+gulp jsBrowserify
